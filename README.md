@@ -4,6 +4,8 @@ Um **piano interativo** feito com **HTML, CSS e JavaScript**.
 Você pode tocar as teclas clicando com o mouse ou utilizando o teclado do computador.  
 O projeto inclui controle de volume e a opção de exibir ou ocultar as letras das teclas.
 
+## 🌐 Demonstração
+🎹 [Acesse o Piano Virtual aqui!](https://maxhumberto.github.io/projetoPianoVirutal/)
 ---
 
 ## 🚀 Tecnologias utilizadas
